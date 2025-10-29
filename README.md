@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To;My+Own+World)](https://git.io/typing-svg)
 
 
 <!--
