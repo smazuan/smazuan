@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=true&width=435&lines=Hi+there+👋+I'm+Maz)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=Welcome+to+My+World+of+Pixelates+⚡)](https://git.io/typing-svg)
 
 
