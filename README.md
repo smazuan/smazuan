@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+<img width="400" height="491" alt="logo-putih-new" src="https://github.com/user-attachments/assets/f229c42a-12a7-40e8-9056-73e8bea4cc66" />
+
+
 <!--
 **smazuan/smazuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
